@@ -1,9 +1,9 @@
+[submodule "zsh"]
+	path = zsh
+	url = https://gist.github.com/baumartig/5ccbcb140cc27a2d94e7455566991cc7
 [submodule "tmux"]
 	path = tmux
 	url = https://gist.github.com/baumartig/1a9048dca0236eecc209b6a566890556
 [submodule "nvim"]
 	path = nvim
 	url = https://gist.github.com/baumartig/26ccf9924e21fad290393d652e5168f4
-[submodule "zsh"]
-	path = zsh
-	url = https://gist.github.com/baumartig/5ccbcb140cc27a2d94e7455566991cc7
