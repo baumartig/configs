@@ -4,6 +4,7 @@
 
 LINKS="/tmux/tmux_config /.tmux.conf
 /nvim/init.vim /.config/nvim/init.vim
+/nvim/init.vim /.vimrc
 /zsh/zshrc /.zshrc"
 CURRENT=$(pwd)
 
